@@ -91,4 +91,5 @@ int main() {
         printCabecalho();
         montarFicha();
    }
+   system("pause");
 }
